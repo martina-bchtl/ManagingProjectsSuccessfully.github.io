@@ -38,22 +38,22 @@ Eine weitere Art des Rollenkonfliktes ist der Intra-Rollenkonflikt. Dieser ist g
 In unserem Beispiel steht der Abteilungsleiter Leon in Kontakt mit Kunden, Lieferanten, höheren Führungskräften und seinen Mitarbeitern. All diese Personen haben diverse
 Erwartungen an ihn, sodass es kaum möglich ist, alle zu vollster Zufriedenheit zu erfüllen.[^2]
 
-Nach dem Psychologen Bernd Schmid kann man diese Art jedoch nochmal weiter unterteilen.Hierbei wird nach Professionswelt,Organisationswelt und Privatwelt gegliedert, welche alle 
-zu dem sogenannten „Drei Welten Modell“ zählen.[^3][^4] Über die einzelnen Teile soll im Folgenden kurz ein Überblick gegeben werden. 
+Nach dem Psychologen Bernd Schmid kann man diese Art jedoch nochmal weiter unterteilen. Hierbei wird nach Professionswelt,Organisationswelt und Privatwelt gegliedert, welche 
+alle zu dem sogenannten „Drei Welten Modell“ zählen.[^3][^4] Über die einzelnen Teile soll im Folgenden kurz ein Überblick gegeben werden. 
 
 ### Privatwelt 
 Diese Bezeichnung fasst alle privaten Rollen zusammen, zum Beispiel "Vater", "Freund" und "Vereinsmitglied". Also jegliche Rollen, die nicht in Verbindung mit der Berufung und
 der Arbeitswelt stehen.
 
 ### Professionswelt
-In der Professionswelt werden die verschiedenen fachlichen Rollen angenommen, besipielsweise solche wie "Controller", "Einkäufer" oder "Qualitätsprüfer".[^3] 
+In der Professionswelt werden die verschiedenen fachlichen Rollen angenommen, beispielsweise solche wie "Controller", "Einkäufer" oder "Qualitätsprüfer".[^3] 
 
 ### Organisationswelt 
 Mit der Organisationswelt werden die hierarchischen Rollen definiert, welche "Führungskraft", "Abteilungsleiter" oder "CFO" sein könnten.[^3]
 
 
 Außerdem ist bei diesem Modell anzumerken, dass es zudem oft zu Rollenkonflikten zwischen der Organisationswelt und der Professionswelt kommt. Obwohl diese seltener wahrgenommen 
-werden, sollte man diese bewusst berücksichtigen, sodass einige Konflikte vermieden werden. Bei unserem Beispiel kann der Controller Leon, welcher zugleich Abteilunsleiter ist, 
+werden, sollte man diese bewusst berücksichtigen, sodass einige Konflikte vermieden werden. Bei unserem Beispiel kann der Controller Leon, welcher zugleich Abteilungsleiter ist, 
 sich nicht vor seinem Chef als einen Abteilunsgleiter präsentieren und so handeln.
 
 Zusammenfassend sollte also bei einem Intra-Rollenkonflikt beachtet werden, welche Charakteristika an einer bestimmten Rolle wichtig sind und auf diese sollte die Konzentration 
